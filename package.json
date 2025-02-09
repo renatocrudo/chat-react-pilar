@@ -1,0 +1,19 @@
+{
+  "name": "chat-react-pilar",
+  "version": "1.0.0",
+  "description": "projeto para simular uma interface do whatsapp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatocrudo/chat-react-pilar.git"
+  },
+  "author": "Renato Crudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renatocrudo/chat-react-pilar/issues"
+  },
+  "homepage": "https://github.com/renatocrudo/chat-react-pilar#readme"
+}
