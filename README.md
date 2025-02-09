@@ -11,4 +11,5 @@ npm run dev
 `
 
 ## Detalhes
+
 Para funcionar o editorconfig, instale a extensão em seu visualstudio.
