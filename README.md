@@ -10,3 +10,5 @@ Para executar o projeto, no terminal digite:
 npm run dev
 `
 
+## Detalhes
+Para funcionar o editorconfig, instale a extensão em seu visualstudio.
